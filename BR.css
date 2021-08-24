@@ -1,0 +1,40 @@
+.heading
+{
+font-size: 23px;
+width: 90%;
+margin-top: 5px;
+float: left;
+}
+
+#status , #number_of_object
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.return
+{
+    font-size: 23px;
+    float: right;
+    background-color: black;
+    border-radius: 25px;
+    width: 128px;
+    height: 45px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: white;
+    padding: 10px;
+}
